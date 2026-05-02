@@ -31,7 +31,3 @@ Built using Microsoft Excel to analyze personal spending patterns across categor
 ![Monthly Trend](./Screenshot%202026-05-03%20013259.png)
 
 ![Category Analysis](./Screenshot%202026-05-03%20013312.png)
-
-![Trend Chart](./Screenshot%202026-05-02%20231450.png)
-
-![Category Chart](./Screenshot%202026-05-02%20231509.png)
