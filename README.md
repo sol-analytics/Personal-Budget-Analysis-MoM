@@ -1,15 +1,19 @@
 # personal-budget-analysis-mom
 # 📊 Personal Budget Analysis with Month-over-Month (MoM) Trends
 
-Built using Microsoft Excel to analyze personal spending patterns across categories and track changes over time.
+## 🎯 Problem Statement
+Analyze monthly personal expenses to identify spending trends, category-wise behavior, and opportunities for better financial planning.
 
-## 📂 Dataset
-- Sample dataset used for analysis and demonstration purposes
+## 📁 Dataset
+- Simulated personal expense dataset
+- Covers 5 months (Feb–Jun 2026)
+- Includes categories like Rent, Groceries, Utilities, etc.
+- Designed for trend and category analysis
 
-## 🔍 Key Analysis
-- Month-over-Month (MoM) percentage change in expenses  
-- Category-wise spending behavior  
-- Identification of fixed vs variable expenses  
+- ## 📊 Key Metrics
+- Total Monthly Spend
+- Month-over-Month (MoM) Change %
+- Category-wise Expense Distribution 
 
 ## 📈 Key Insights
 - Groceries exhibit the highest volatility, with a 40% drop in March followed by a 33% increase in April  
