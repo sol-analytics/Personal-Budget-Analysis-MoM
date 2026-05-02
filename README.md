@@ -13,17 +13,7 @@ Analyze monthly personal expenses to identify spending trends, category-wise beh
 - ## 📊 Key Metrics
 - Total Monthly Spend
 - Month-over-Month (MoM) Change %
-- Category-wise Expense Distribution 
-
-## 📈 Key Insights
-- Groceries exhibit the highest volatility, with a 40% drop in March followed by a 33% increase in April  
-- Overall spending declined in March (-7.17%) and gradually stabilized in subsequent months  
-- Fixed expenses such as rent and insurance remain consistent, while discretionary categories fluctuate  
-
-## 💡 Recommendations
-- Monitor high-variability categories to improve budget consistency  
-- Set spending limits for discretionary categories to reduce fluctuations  
-- Maintain fixed expense stability while optimizing variable expenses  
+- Category-wise Expense Distribution   
 
 ## 🛠 Tools Used
 - Excel (Pivot Tables, MoM Calculations, Charts)
@@ -35,3 +25,13 @@ Analyze monthly personal expenses to identify spending trends, category-wise beh
 ![Monthly Trend](./Screenshot%202026-05-03%20013259.png)
 
 ![Category Analysis](./Screenshot%202026-05-03%20013312.png)
+
+## 📈 Key Insights
+- Groceries exhibit the highest volatility, with a 40% drop in March followed by a 33% increase in April  
+- Overall spending declined in March (-7.17%) and gradually stabilized in subsequent months  
+- Fixed expenses such as rent and insurance remain consistent, while discretionary categories fluctuate  
+
+## 💡 Recommendations
+- Monitor high-variability categories to improve budget consistency  
+- Set spending limits for discretionary categories to reduce fluctuations  
+- Maintain fixed expense stability while optimizing variable expenses
