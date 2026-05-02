@@ -10,6 +10,12 @@ Analyze monthly personal expenses to identify spending trends, category-wise beh
 - Includes categories like Rent, Groceries, Utilities, etc.
 - Designed for trend and category analysis
 
+## ⚙️ Approach
+- Structured raw data for analysis  
+- Created Pivot Tables for aggregation  
+- Calculated MoM percentage changes  
+- Built charts to visualize trends and category behavior  
+
 - ## 📊 Key Metrics
 - Total Monthly Spend
 - Month-over-Month (MoM) Change %
